@@ -1,0 +1,163 @@
+2023-12-12 16:12:967 INFO  HomePage :34 - Chrome Browser Launch.......
+2023-12-12 16:12:93 INFO  HomePage :110 - Click on 'Computers' tab
+2023-12-12 16:12:916 INFO  HomePage :40 - Get pageTitle text : Computers
+2023-12-12 16:12:351 INFO  HomePage :34 - Chrome Browser Launch.......
+2023-12-12 16:12:313 INFO  HomePage :110 - Click on 'Computers' tab
+2023-12-12 16:12:809 INFO  HomePage :49 - Click on 'Desktops' link
+2023-12-12 16:12:400 INFO  HomePage :48 - Get pageTitle text Desktops
+2023-12-12 16:12:610 INFO  HomePage :34 - Chrome Browser Launch.......
+2023-12-12 16:12:928 INFO  HomePage :110 - Click on 'Computers' tab
+2023-12-12 16:12:690 INFO  HomePage :49 - Click on 'Desktops' link
+2023-12-12 16:12:278 INFO  HomePage :71 - Click on product 'Build your own computer' : Build your own computer
+2023-12-12 16:12:975 INFO  HomePage :72 - Select processor '2.2 GHz Intel Pentium Dual-Core E2200'
+2023-12-12 16:12:36 INFO  HomePage :79 - Select RAM '2 GB'
+2023-12-12 16:12:80 INFO  HomePage :88 - Select HDD '320 GB'
+2023-12-12 16:12:120 INFO  HomePage :100 - Select HDD 'Vista Home [+$50.00]'
+2023-12-12 16:12:163 INFO  HomePage :112 - Select Software '[[ChromeDriver: chrome on windows (5572509ceef9e330fb209eb40cd0e22c)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'
+2023-12-12 16:12:199 INFO  HomePage :122 - Click on 'ADD TO CART' Button
+2023-12-12 16:12:867 INFO  HomePage :129 - Get productAdded Message : The product has been added to your shopping cart
+2023-12-12 16:12:141 INFO  HomePage :34 - Chrome Browser Launch.......
+2023-12-12 16:12:600 INFO  HomePage :110 - Click on 'Computers' tab
+2023-12-12 16:12:378 INFO  HomePage :49 - Click on 'Desktops' link
+2023-12-12 16:12:218 INFO  HomePage :71 - Click on product 'Build your own computer' : Build your own computer
+2023-12-12 16:12:214 INFO  HomePage :72 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]'
+2023-12-12 16:12:281 INFO  HomePage :79 - Select RAM '4GB [+$20.00]'
+2023-12-12 16:12:330 INFO  HomePage :88 - Select HDD '400 GB [+$100.00]'
+2023-12-12 16:12:380 INFO  HomePage :100 - Select HDD 'Vista Premium [+$60.00]'
+2023-12-12 16:12:427 INFO  HomePage :112 - Select Software '[[ChromeDriver: chrome on windows (633cf345107955cb0d20c4242d95c567)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'
+2023-12-12 16:12:460 INFO  HomePage :122 - Click on 'ADD TO CART' Button
+2023-12-12 16:12:136 INFO  HomePage :129 - Get productAdded Message : The product has been added to your shopping cart
+2023-12-12 16:12:370 INFO  HomePage :34 - Chrome Browser Launch.......
+2023-12-12 16:12:564 INFO  HomePage :110 - Click on 'Computers' tab
+2023-12-12 16:12:17 INFO  HomePage :49 - Click on 'Desktops' link
+2023-12-12 16:12:434 INFO  HomePage :71 - Click on product 'Build your own computer' : Build your own computer
+2023-12-12 16:12:957 INFO  HomePage :72 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]'
+2023-12-12 16:12:25 INFO  HomePage :79 - Select RAM '8GB [+$60.00]'
+2023-12-12 16:12:69 INFO  HomePage :88 - Select HDD '320 GB'
+2023-12-12 16:12:113 INFO  HomePage :100 - Select HDD 'Vista Home [+$50.00]'
+2023-12-12 16:12:170 INFO  HomePage :112 - Select Software '[[ChromeDriver: chrome on windows (78903de2df0ba99d423eecbb07a6d051)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'
+2023-12-12 16:12:206 INFO  HomePage :122 - Click on 'ADD TO CART' Button
+2023-12-12 16:12:622 INFO  HomePage :129 - Get productAdded Message : The product has been added to your shopping cart
+2023-12-12 16:12:879 INFO  HomePage :34 - Chrome Browser Launch.......
+2023-12-12 16:12:19 INFO  HomePage :55 - Click on loginLink : Log in
+2023-12-12 16:12:951 INFO  HomePage :49 - Get welcomeText : Welcome, Please Sign In!
+2023-12-12 16:12:251 INFO  HomePage :34 - Chrome Browser Launch.......
+2023-12-12 16:12:380 INFO  HomePage :55 - Click on loginLink : Log in
+2023-12-12 16:12:906 INFO  HomePage :58 - Enter EmailId 'prime123@gmail.com' to email field : 
+2023-12-12 16:12:07 INFO  HomePage :67 - Enter Password 'prime123' to password field : 
+2023-12-12 16:12:368 INFO  HomePage :75 - Click on loginButton
+2023-12-12 16:12:412 INFO  HomePage :82 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2023-12-12 16:12:627 INFO  HomePage :34 - Chrome Browser Launch.......
+2023-12-12 16:12:286 INFO  HomePage :55 - Click on loginLink : Log in
+2023-12-12 16:12:313 INFO  HomePage :58 - Enter EmailId 'EifdC@gmail.com' to email field : 
+2023-12-12 16:12:398 INFO  HomePage :67 - Enter Password 'Prime123' to password field : 
+2023-12-12 16:12:775 INFO  HomePage :75 - Click on loginButton
+2023-12-12 16:12:339 INFO  HomePage :34 - Chrome Browser Launch.......
+2023-12-12 16:12:982 INFO  HomePage :55 - Click on loginLink : Log in
+2023-12-12 16:12:946 INFO  HomePage :58 - Enter EmailId 'EifdC@gmail.com' to email field : 
+2023-12-12 16:12:21 INFO  HomePage :67 - Enter Password 'Prime123' to password field : 
+2023-12-12 16:12:591 INFO  HomePage :75 - Click on loginButton
+2023-12-17 13:12:928 INFO  HomePage :34 - Chrome Browser Launch.......
+2023-12-17 13:12:350 INFO  HomePage :110 - Click on 'Computers' tab
+2023-12-17 13:12:915 INFO  HomePage :40 - Get pageTitle text : Computers
+2023-12-17 13:12:466 INFO  HomePage :34 - Chrome Browser Launch.......
+2023-12-17 13:12:649 INFO  HomePage :70 - Click on registerLink : Register
+2023-12-17 13:12:123 INFO  HomePage :88 - Get registerText : Register
+2023-12-17 13:12:327 INFO  HomePage :34 - Chrome Browser Launch.......
+2023-12-17 13:12:513 INFO  HomePage :55 - Click on loginLink : Log in
+2023-12-17 13:12:403 INFO  HomePage :49 - Get welcomeText : Welcome, Please Sign In!
+2023-12-17 23:12:65 INFO  HomePage :70 - Clicking on login link : [[ChromeDriver: chrome on windows (821f8ef71be335ba9ed84c07488d425f)] -> link text: Log in]
+2023-12-17 23:12:137 INFO  HomePage :48 - Getting text from : [[ChromeDriver: chrome on windows (821f8ef71be335ba9ed84c07488d425f)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 23:12:682 INFO  HomePage :127 - Clicking on registerLink: [[ChromeDriver: chrome on windows (6df1612b33694ee8ea2021fb29c34670)] -> link text: Register]
+2023-12-17 23:12:77 INFO  HomePage :127 - Clicking on registerLink: [[ChromeDriver: chrome on windows (6df1612b33694ee8ea2021fb29c34670)] -> link text: Register]
+2023-12-17 23:12:147 INFO  HomePage :84 - Get registerText : [[ChromeDriver: chrome on windows (6df1612b33694ee8ea2021fb29c34670)] -> css selector: div[class='page-title'] h1]
+2023-12-17 23:12:126 INFO  HomePage :70 - Clicking on login link : [[ChromeDriver: chrome on windows (ea2668feae4474b556d92a163b7e552d)] -> link text: Log in]
+2023-12-17 23:12:296 INFO  HomePage :54 - Enter EmailId 'abcd123@gmail.com' to email field : [[ChromeDriver: chrome on windows (ea2668feae4474b556d92a163b7e552d)] -> id: Email]
+2023-12-17 23:12:437 INFO  HomePage :60 - Enter Password 'xyz123' to password field : [[ChromeDriver: chrome on windows (ea2668feae4474b556d92a163b7e552d)] -> name: Password]
+2023-12-17 23:12:795 INFO  HomePage :66 - Click on loginButton : [[ChromeDriver: chrome on windows (ea2668feae4474b556d92a163b7e552d)] -> xpath: //button[contains(text(),'Log in')]]
+2023-12-17 23:12:858 INFO  HomePage :72 - Get errorMessage : [[ChromeDriver: chrome on windows (ea2668feae4474b556d92a163b7e552d)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2023-12-17 23:12:418 INFO  HomePage :70 - Clicking on login link : [[ChromeDriver: chrome on windows (888e194f876e642300addae17d40dcfb)] -> link text: Log in]
+2023-12-17 23:12:574 INFO  HomePage :54 - Enter EmailId 'xyz123@gmail.com' to email field : [[ChromeDriver: chrome on windows (888e194f876e642300addae17d40dcfb)] -> id: Email]
+2023-12-17 23:12:726 INFO  HomePage :60 - Enter Password 'abc123' to password field : [[ChromeDriver: chrome on windows (888e194f876e642300addae17d40dcfb)] -> name: Password]
+2023-12-17 23:12:121 INFO  HomePage :66 - Click on loginButton : [[ChromeDriver: chrome on windows (888e194f876e642300addae17d40dcfb)] -> xpath: //button[contains(text(),'Log in')]]
+2023-12-17 23:12:198 INFO  HomePage :72 - Get errorMessage : [[ChromeDriver: chrome on windows (888e194f876e642300addae17d40dcfb)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2023-12-17 23:12:422 INFO  HomePage :70 - Clicking on login link : [[ChromeDriver: chrome on windows (8445223b119160cfd36820a7772479ad)] -> link text: Log in]
+2023-12-17 23:12:586 INFO  HomePage :54 - Enter EmailId 'nop@gmail.com' to email field : [[ChromeDriver: chrome on windows (8445223b119160cfd36820a7772479ad)] -> id: Email]
+2023-12-17 23:12:718 INFO  HomePage :60 - Enter Password 'xyz123' to password field : [[ChromeDriver: chrome on windows (8445223b119160cfd36820a7772479ad)] -> name: Password]
+2023-12-17 23:12:67 INFO  HomePage :66 - Click on loginButton : [[ChromeDriver: chrome on windows (8445223b119160cfd36820a7772479ad)] -> xpath: //button[contains(text(),'Log in')]]
+2023-12-17 23:12:136 INFO  HomePage :72 - Get errorMessage : [[ChromeDriver: chrome on windows (8445223b119160cfd36820a7772479ad)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2023-12-17 23:12:45 INFO  HomePage :127 - Clicking on registerLink: [[ChromeDriver: chrome on windows (71a024e418a44297826e9ac99af4cac6)] -> link text: Register]
+2023-12-17 23:12:413 INFO  HomePage :127 - Clicking on registerLink: [[ChromeDriver: chrome on windows (71a024e418a44297826e9ac99af4cac6)] -> link text: Register]
+2023-12-17 23:12:186 INFO  HomePage :70 - Clicking on login link : [[ChromeDriver: chrome on windows (4c48911c90214e5186b75370f1794da9)] -> link text: Log in]
+2023-12-17 23:12:374 INFO  HomePage :54 - Enter EmailId 'Sunmoon@gmail.com' to email field : [[ChromeDriver: chrome on windows (4c48911c90214e5186b75370f1794da9)] -> id: Email]
+2023-12-17 23:12:527 INFO  HomePage :60 - Enter Password 'MoonSun@123' to password field : [[ChromeDriver: chrome on windows (4c48911c90214e5186b75370f1794da9)] -> name: Password]
+2023-12-17 23:12:893 INFO  HomePage :66 - Click on loginButton : [[ChromeDriver: chrome on windows (4c48911c90214e5186b75370f1794da9)] -> xpath: //button[contains(text(),'Log in')]]
+2023-12-17 23:12:538 INFO  HomePage :70 - Clicking on login link : [[ChromeDriver: chrome on windows (417f403dede0c7cf9e9a9dd92c06d1ed)] -> link text: Log in]
+2023-12-17 23:12:685 INFO  HomePage :54 - Enter EmailId 'Sunmoon@gmail.com' to email field : [[ChromeDriver: chrome on windows (417f403dede0c7cf9e9a9dd92c06d1ed)] -> id: Email]
+2023-12-17 23:12:795 INFO  HomePage :60 - Enter Password 'MoonSun@123' to password field : [[ChromeDriver: chrome on windows (417f403dede0c7cf9e9a9dd92c06d1ed)] -> name: Password]
+2023-12-17 23:12:154 INFO  HomePage :66 - Click on loginButton : [[ChromeDriver: chrome on windows (417f403dede0c7cf9e9a9dd92c06d1ed)] -> xpath: //button[contains(text(),'Log in')]]
+2023-12-17 23:12:675 INFO  HomePage :127 - Clicking on registerLink: [[ChromeDriver: chrome on windows (425957971d1a01ea3a35d67113b2ebe8)] -> link text: Register]
+2023-12-17 23:12:794 INFO  HomePage :100 - Enter Firstname : 'Hir[[ChromeDriver: chrome on windows (425957971d1a01ea3a35d67113b2ebe8)] -> id: FirstName]
+2023-12-17 23:12:837 INFO  HomePage :100 - Enter Firstname : 'Hir[[ChromeDriver: chrome on windows (425957971d1a01ea3a35d67113b2ebe8)] -> id: FirstName]
+2023-12-17 23:12:910 INFO  HomePage :105 - Enter Lastname : 'Kar[[ChromeDriver: chrome on windows (425957971d1a01ea3a35d67113b2ebe8)] -> id: LastName]
+2023-12-17 23:12:22 INFO  HomePage :110 -  select day : 14 frome drop down [[ChromeDriver: chrome on windows (425957971d1a01ea3a35d67113b2ebe8)] -> name: DateOfBirthDay]
+2023-12-17 23:12:101 INFO  HomePage :115 -  select month : January from drop down field [[ChromeDriver: chrome on windows (425957971d1a01ea3a35d67113b2ebe8)] -> name: DateOfBirthMonth]
+2023-12-17 23:12:182 INFO  HomePage :121 -  select year : 1999 from drop down menu [[ChromeDriver: chrome on windows (425957971d1a01ea3a35d67113b2ebe8)] -> name: DateOfBirthYear]
+2023-12-17 23:12:262 INFO  HomePage :126 - Enter Email : Sunmoon@gmail.com[[ChromeDriver: chrome on windows (425957971d1a01ea3a35d67113b2ebe8)] -> name: Email]
+2023-12-17 23:12:346 INFO  HomePage :60 - Enter Password 'MoonSun@123' to password field : [[ChromeDriver: chrome on windows (425957971d1a01ea3a35d67113b2ebe8)] -> name: Password]
+2023-12-17 23:12:421 INFO  HomePage :131 - Enter Password : MoonSun@123[[ChromeDriver: chrome on windows (425957971d1a01ea3a35d67113b2ebe8)] -> id: Password]
+2023-12-17 23:12:720 INFO  HomePage :127 - Clicking on registerLink: [[ChromeDriver: chrome on windows (425957971d1a01ea3a35d67113b2ebe8)] -> link text: Register]
+2023-12-17 23:12:815 INFO  HomePage :141 - Click on 'REGISTER' button: [[ChromeDriver: chrome on windows (425957971d1a01ea3a35d67113b2ebe8)] -> css selector: #register-button]
+2023-12-17 23:12:880 INFO  HomePage :84 - Get registerText : [[ChromeDriver: chrome on windows (425957971d1a01ea3a35d67113b2ebe8)] -> css selector: div[class='page-title'] h1]
+2023-12-18 22:12:322 INFO  HomePage :70 - Clicking on login link : [[ChromeDriver: chrome on windows (81eaf072bd97f2580450e0da4e21c537)] -> link text: Log in]
+2023-12-18 22:12:377 INFO  HomePage :48 - Getting text from : [[ChromeDriver: chrome on windows (81eaf072bd97f2580450e0da4e21c537)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-18 22:12:207 INFO  HomePage :127 - Clicking on registerLink: [[ChromeDriver: chrome on windows (9020c3a19cb64da73014922fb8a2c13e)] -> link text: Register]
+2023-12-18 22:12:532 INFO  HomePage :127 - Clicking on registerLink: [[ChromeDriver: chrome on windows (9020c3a19cb64da73014922fb8a2c13e)] -> link text: Register]
+2023-12-18 22:12:584 INFO  HomePage :84 - Get registerText : [[ChromeDriver: chrome on windows (9020c3a19cb64da73014922fb8a2c13e)] -> css selector: div[class='page-title'] h1]
+2023-12-19 07:12:950 INFO  HomePage :70 - Clicking on login link : [[ChromeDriver: chrome on windows (6759ab270665ae812b711c1ba819e5b8)] -> link text: Log in]
+2023-12-19 07:12:03 INFO  HomePage :48 - Getting text from : [[ChromeDriver: chrome on windows (6759ab270665ae812b711c1ba819e5b8)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-19 07:12:174 INFO  HomePage :127 - Clicking on registerLink: [[ChromeDriver: chrome on windows (c1be163546dd6613f34d1593842db870)] -> link text: Register]
+2023-12-19 07:12:496 INFO  HomePage :127 - Clicking on registerLink: [[ChromeDriver: chrome on windows (c1be163546dd6613f34d1593842db870)] -> link text: Register]
+2023-12-19 07:12:545 INFO  HomePage :84 - Get registerText : [[ChromeDriver: chrome on windows (c1be163546dd6613f34d1593842db870)] -> css selector: div[class='page-title'] h1]
+2023-12-19 21:12:204 INFO  HomePage :70 - Clicking on login link : [[ChromeDriver: chrome on windows (5bc31e7098cba4de562565c5ed352d21)] -> link text: Log in]
+2023-12-19 21:12:721 INFO  HomePage :54 - Enter EmailId 'Sunmoon@gmail.com' to email field : [[ChromeDriver: chrome on windows (5bc31e7098cba4de562565c5ed352d21)] -> id: Email]
+2023-12-19 21:12:896 INFO  HomePage :60 - Enter Password 'MoonSun@123' to password field : [[ChromeDriver: chrome on windows (5bc31e7098cba4de562565c5ed352d21)] -> name: Password]
+2023-12-19 21:12:342 INFO  HomePage :66 - Click on loginButton : [[ChromeDriver: chrome on windows (5bc31e7098cba4de562565c5ed352d21)] -> xpath: //button[contains(text(),'Log in')]]
+2023-12-19 21:12:729 INFO  HomePage :70 - Clicking on login link : [[ChromeDriver: chrome on windows (1fb1fd7b7bb29d738a1e68fd626ac496)] -> link text: Log in]
+2023-12-19 21:12:925 INFO  HomePage :54 - Enter EmailId 'Sunmoon@gmail.com' to email field : [[ChromeDriver: chrome on windows (1fb1fd7b7bb29d738a1e68fd626ac496)] -> id: Email]
+2023-12-19 21:12:79 INFO  HomePage :60 - Enter Password 'MoonSun@123' to password field : [[ChromeDriver: chrome on windows (1fb1fd7b7bb29d738a1e68fd626ac496)] -> name: Password]
+2023-12-19 21:12:521 INFO  HomePage :66 - Click on loginButton : [[ChromeDriver: chrome on windows (1fb1fd7b7bb29d738a1e68fd626ac496)] -> xpath: //button[contains(text(),'Log in')]]
+2023-12-19 21:12:966 INFO  HomePage :127 - Clicking on registerLink: [[ChromeDriver: chrome on windows (f3e175c0f9b7bd3a716be3c6c10f162a)] -> link text: Register]
+2023-12-19 21:12:175 INFO  HomePage :100 - Enter Firstname : 'Hir[[ChromeDriver: chrome on windows (f3e175c0f9b7bd3a716be3c6c10f162a)] -> id: FirstName]
+2023-12-19 21:12:242 INFO  HomePage :100 - Enter Firstname : 'Hir[[ChromeDriver: chrome on windows (f3e175c0f9b7bd3a716be3c6c10f162a)] -> id: FirstName]
+2023-12-19 21:12:373 INFO  HomePage :105 - Enter Lastname : 'Kar[[ChromeDriver: chrome on windows (f3e175c0f9b7bd3a716be3c6c10f162a)] -> id: LastName]
+2023-12-19 21:12:537 INFO  HomePage :110 -  select day : 14 frome drop down [[ChromeDriver: chrome on windows (f3e175c0f9b7bd3a716be3c6c10f162a)] -> name: DateOfBirthDay]
+2023-12-19 21:12:664 INFO  HomePage :115 -  select month : January from drop down field [[ChromeDriver: chrome on windows (f3e175c0f9b7bd3a716be3c6c10f162a)] -> name: DateOfBirthMonth]
+2023-12-19 21:12:792 INFO  HomePage :121 -  select year : 1999 from drop down menu [[ChromeDriver: chrome on windows (f3e175c0f9b7bd3a716be3c6c10f162a)] -> name: DateOfBirthYear]
+2023-12-19 21:12:908 INFO  HomePage :126 - Enter Email : Sunmoon@gmail.com[[ChromeDriver: chrome on windows (f3e175c0f9b7bd3a716be3c6c10f162a)] -> name: Email]
+2023-12-19 21:12:30 INFO  HomePage :60 - Enter Password 'MoonSun@123' to password field : [[ChromeDriver: chrome on windows (f3e175c0f9b7bd3a716be3c6c10f162a)] -> name: Password]
+2023-12-19 21:12:135 INFO  HomePage :131 - Enter Password : MoonSun@123[[ChromeDriver: chrome on windows (f3e175c0f9b7bd3a716be3c6c10f162a)] -> id: Password]
+2023-12-19 21:12:478 INFO  HomePage :127 - Clicking on registerLink: [[ChromeDriver: chrome on windows (f3e175c0f9b7bd3a716be3c6c10f162a)] -> link text: Register]
+2023-12-19 21:12:590 INFO  HomePage :141 - Click on 'REGISTER' button: [[ChromeDriver: chrome on windows (f3e175c0f9b7bd3a716be3c6c10f162a)] -> css selector: #register-button]
+2023-12-19 21:12:643 INFO  HomePage :84 - Get registerText : [[ChromeDriver: chrome on windows (f3e175c0f9b7bd3a716be3c6c10f162a)] -> css selector: div[class='page-title'] h1]
+2023-12-19 21:12:23 INFO  HomePage :70 - Clicking on login link : [[ChromeDriver: chrome on windows (64b7dfc786fe215d4824b9f0844ab0af)] -> link text: Log in]
+2023-12-19 21:12:171 INFO  HomePage :54 - Enter EmailId 'Sunmoon@gmail.com' to email field : [[ChromeDriver: chrome on windows (64b7dfc786fe215d4824b9f0844ab0af)] -> id: Email]
+2023-12-19 21:12:301 INFO  HomePage :60 - Enter Password 'MoonSun@123' to password field : [[ChromeDriver: chrome on windows (64b7dfc786fe215d4824b9f0844ab0af)] -> name: Password]
+2023-12-19 21:12:629 INFO  HomePage :66 - Click on loginButton : [[ChromeDriver: chrome on windows (64b7dfc786fe215d4824b9f0844ab0af)] -> xpath: //button[contains(text(),'Log in')]]
+2023-12-19 21:12:888 INFO  HomePage :70 - Clicking on login link : [[ChromeDriver: chrome on windows (8e8883fd2dfc457e7470e5f328515fdd)] -> link text: Log in]
+2023-12-19 21:12:43 INFO  HomePage :54 - Enter EmailId 'Sunmoon@gmail.com' to email field : [[ChromeDriver: chrome on windows (8e8883fd2dfc457e7470e5f328515fdd)] -> id: Email]
+2023-12-19 21:12:148 INFO  HomePage :60 - Enter Password 'MoonSun@123' to password field : [[ChromeDriver: chrome on windows (8e8883fd2dfc457e7470e5f328515fdd)] -> name: Password]
+2023-12-19 21:12:510 INFO  HomePage :66 - Click on loginButton : [[ChromeDriver: chrome on windows (8e8883fd2dfc457e7470e5f328515fdd)] -> xpath: //button[contains(text(),'Log in')]]
+2023-12-19 21:12:608 INFO  HomePage :127 - Clicking on registerLink: [[ChromeDriver: chrome on windows (aa8b48886441c1f43a1824c136ae8f27)] -> link text: Register]
+2023-12-19 21:12:731 INFO  HomePage :100 - Enter Firstname : 'Hir[[ChromeDriver: chrome on windows (aa8b48886441c1f43a1824c136ae8f27)] -> id: FirstName]
+2023-12-19 21:12:803 INFO  HomePage :100 - Enter Firstname : 'Hir[[ChromeDriver: chrome on windows (aa8b48886441c1f43a1824c136ae8f27)] -> id: FirstName]
+2023-12-19 21:12:919 INFO  HomePage :105 - Enter Lastname : 'Kar[[ChromeDriver: chrome on windows (aa8b48886441c1f43a1824c136ae8f27)] -> id: LastName]
+2023-12-19 21:12:51 INFO  HomePage :110 -  select day : 14 frome drop down [[ChromeDriver: chrome on windows (aa8b48886441c1f43a1824c136ae8f27)] -> name: DateOfBirthDay]
+2023-12-19 21:12:180 INFO  HomePage :115 -  select month : January from drop down field [[ChromeDriver: chrome on windows (aa8b48886441c1f43a1824c136ae8f27)] -> name: DateOfBirthMonth]
+2023-12-19 21:12:311 INFO  HomePage :121 -  select year : 1999 from drop down menu [[ChromeDriver: chrome on windows (aa8b48886441c1f43a1824c136ae8f27)] -> name: DateOfBirthYear]
+2023-12-19 21:12:423 INFO  HomePage :126 - Enter Email : Sunmoon@gmail.com[[ChromeDriver: chrome on windows (aa8b48886441c1f43a1824c136ae8f27)] -> name: Email]
+2023-12-19 21:12:529 INFO  HomePage :60 - Enter Password 'MoonSun@123' to password field : [[ChromeDriver: chrome on windows (aa8b48886441c1f43a1824c136ae8f27)] -> name: Password]
+2023-12-19 21:12:617 INFO  HomePage :131 - Enter Password : MoonSun@123[[ChromeDriver: chrome on windows (aa8b48886441c1f43a1824c136ae8f27)] -> id: Password]
+2023-12-19 21:12:932 INFO  HomePage :127 - Clicking on registerLink: [[ChromeDriver: chrome on windows (aa8b48886441c1f43a1824c136ae8f27)] -> link text: Register]
+2023-12-19 21:12:33 INFO  HomePage :141 - Click on 'REGISTER' button: [[ChromeDriver: chrome on windows (aa8b48886441c1f43a1824c136ae8f27)] -> css selector: #register-button]
